@@ -10,4 +10,5 @@ print('Python 3')
 # git commit -m "Комментарий к коммиту"
 # git clone "путь до нужного удаленного репозитория"
 # git push  # загружает все коммиты на удаленный репозиторий
-# git remote add origin https://github.com/Intense-IT/Python2023.git  
+# git remote add origin https://github.com/Intense-IT/Python2023.git 
+# Выше подключение к удаленному репозиторию
