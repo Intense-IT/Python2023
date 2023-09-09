@@ -23,5 +23,3 @@ response = requests.post(
     'https://ru.wikipedia.org/wiki/',
     data=post_data)
 print(response.text)
-
-
